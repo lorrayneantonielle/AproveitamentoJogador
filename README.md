@@ -6,7 +6,7 @@
 - No final, tudo isso será guardado em um dicionário incluindo o total de gols feitos durante o campeonato.
 
 
-![image](https://user-images.githubusercontent.com/82416158/121268719-d89fd300-c894-11eb-8b1d-41befdd7f992.png)
+![image](https://user-images.githubusercontent.com/82416158/121268895-36ccb600-c895-11eb-8034-5b9ee4e3cd93.png)
 
 
 
